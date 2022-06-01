@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dm-mur
-- 👀 I’m interested in analytical engineering
+- 👀 I’m interested in analytics engineering
 - 🌱 I’m currently learning dbt
-- 💞️ I’m looking to collaborate on analytical engineering concepts
+- 💞️ I’m looking to collaborate on analytics engineering concepts
 
 
 <!---
